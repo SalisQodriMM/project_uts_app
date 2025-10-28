@@ -1,3 +1,5 @@
+Salis Qodri Mufti Muhammad / 230605110069 / Prak Pem Mobile (E)
+---
 # SAKTI (Saku TI)
 Aplikasi "Saku" Mahasiswa Teknik Informatika
 
