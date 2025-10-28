@@ -1,4 +1,4 @@
-Salis Qodri Mufti Muhammad / 230605110069 / Prak Pem Mobile (E)
+Salis Qodri Mufti Muhammad | 230605110069 | Praktikum (E) | Teori (A)
 
 ---
 
