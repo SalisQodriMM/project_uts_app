@@ -1,5 +1,4 @@
-Salis Qodri Mufti Muhammad
-230605110069 - Praktikum (E) / Teori (A)
+Salis Qodri Mufti Muhammad - 230605110069 - Praktikum (E) / Teori (A)
 
 ---
 
