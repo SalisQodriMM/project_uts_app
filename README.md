@@ -79,8 +79,11 @@ Pastikan Anda telah menginstal **Flutter SDK** (versi 3.x atau lebih baru) dan *
           fonts:
             - family: Poppins
               fonts:
-                - asset: assets/fonts/Poppins-Regular.ttf
-                # ... (dan style font lainnya)
+                - asset: assets/fonts/Poppins/Poppins-Regular.ttf
+                - asset: assets/fonts/Poppins/Poppins-Bold.ttf
+                  weight: 700
+                - asset: assets/fonts/Poppins/Poppins-Italic.ttf
+                  style: italic
         ```
 
 5.  **Jalankan Aplikasi**
